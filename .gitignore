@@ -318,3 +318,7 @@ extensions/discord/assets/embedded-app-sdk.mjs
 /.opengrep-out/
 /.crabbox-artifacts
 .comux*
+
+graphify-out/
+.graphify_cached.json
+.graphify_uncached.txt
